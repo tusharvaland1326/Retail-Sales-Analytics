@@ -102,18 +102,19 @@ Business Recommendations
 
 ```
 
-📈 Key Performance Indicators
+# 📈 Key Performance Indicators
 
-KPI                         Value
+The project identified the following key performance indicators:
 
-Total Sales                 $2.30M
-Total Profit                $0.29M
-Records                     9,994
-Total Quantity              37,873
-Average Discount            15.62%
-Profit Margin               12.47%
-Loss-Making Records         1,871
-
+| KPI | Value |
+|---|---:|
+| 💰 Total Sales | **$2.30M** |
+| 📈 Total Profit | **$0.29M** |
+| 📦 Total Records | **9,994** |
+| 🛒 Total Quantity | **37,873** |
+| 🏷️ Average Discount | **15.62%** |
+| 💵 Profit Margin | **12.47%** |
+| ⚠️ Loss-Making Records | **1,871** |
 
 🔍 Key Findings
 
